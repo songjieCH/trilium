@@ -1,24 +1,8 @@
 # Trilium Notes
 
-## Trilium is in maintenance mode - see details in https://github.com/zadam/trilium/issues/4620
+see details in https://github.com/zadam/trilium/issues/4620
 
-Preliminary disccusions on the successor organization are taking place in [Trilium Next discussions](https://github.com/orgs/TriliumNext/discussions). 
-
-[![Join the chat at https://gitter.im/trilium-notes/Lobby](https://badges.gitter.im/trilium-notes/Lobby.svg)](https://gitter.im/trilium-notes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [English](https://github.com/zadam/trilium/blob/master/README.md) | [Chinese](https://github.com/zadam/trilium/blob/master/README-ZH_CN.md) | [Russian](https://github.com/zadam/trilium/blob/master/README.ru.md) | [Japanese](https://github.com/zadam/trilium/blob/master/README.ja.md) | [Italian](https://github.com/zadam/trilium/blob/master/README.it.md)
-
-
-Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. 
-
-See [screenshots](https://github.com/zadam/trilium/wiki/Screenshot-tour) for quick overview:
-
-<a href="https://github.com/zadam/trilium/wiki/Screenshot-tour"><img src="https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png" alt="Trilium Screenshot" width="1000"></a>
-
-Ukraine is currently defending itself from Russian aggression, please consider [donating to Ukrainian Army or humanitarian charities](https://standforukraine.com/).
-
-<p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="drawing" width="400"/>
-  <img src="https://signmyrocket.com//uploads/2b2a523cd0c0e76cdbba95a89a9636b2_1676971281.jpg" alt="Trilium Notes supports Ukraine!" width="570"/>
-</p>
+Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 
 ## 🎁 Features
 
@@ -54,8 +38,6 @@ Trilium is provided as either desktop application (Linux and Windows) or web app
 
 Trilium is also provided as a Flatpak:
 
-[<img width="240" src="https://flathub.org/assets/badges/flathub-badge-en.png">](https://flathub.org/apps/details/com.github.zadam.trilium)
-
 ## 📝 Documentation
 
 [See wiki for complete list of documentation pages.](https://github.com/zadam/trilium/wiki/)
@@ -64,22 +46,11 @@ You can also read [Patterns of personal knowledge base](https://github.com/zadam
 
 ## 💻 Contribute
 
-Use a browser based dev environment
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zadam/trilium)
-
-Or clone locally and run
+Use a browser based dev environment Or clone locally and run
 ```
 npm install
 npm run start-server
 ```
-
-## 📢 Shoutouts
-
-* [CKEditor 5](https://github.com/ckeditor/ckeditor5) - best WYSIWYG editor on the market, very interactive and listening team
-* [FancyTree](https://github.com/mar10/fancytree) - very feature rich tree library without real competition. Trilium Notes would not be the same without it.
-* [CodeMirror](https://github.com/codemirror/CodeMirror) - code editor with support for huge amount of languages
-* [jsPlumb](https://github.com/jsplumb/jsplumb) - visual connectivity library without competition. Used in [relation maps](https://github.com/zadam/trilium/wiki/Relation-map) and [link maps](https://github.com/zadam/trilium/wiki/Link-map)
 
 ## 🤝 Support
 
